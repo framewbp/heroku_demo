@@ -1,0 +1,29 @@
+{
+  "name": "eActivityNodeApp_CM",
+  "version": "1.0.0",
+  "description": "eActivity Transport Node.Js App",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/framewbp/eActivityNodeApp.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/framewbp/eActivityNodeApp/issues"
+  },
+  "homepage": "https://github.com/framewbp/eActivityNodeApp#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1"
+  },
+  "engines": {
+    "node": "12.16.3",
+    "npm": "6.14.4"
+  }
+
+}
